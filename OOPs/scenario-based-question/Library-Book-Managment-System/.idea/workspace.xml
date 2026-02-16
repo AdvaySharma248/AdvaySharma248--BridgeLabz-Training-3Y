@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9e4c0b3a-83d2-4aab-a299-cc57322b8e97" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Flight-Booking/Booking.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Flight-Booking/Flight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Flight-Booking/FlightSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Flight-Booking/MainFlight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BookAlreadyBorrowedException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LibraryManagement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MainLibraryManagement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Library-Managment-System/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Library-Managment-System/BookNotAvailableException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Library-Managment-System/Library.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Library-Managment-System/MainLibrary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Online-Quiz/InvalidQuizSubmissionException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Online-Quiz/MainQuiz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Online-Quiz/QuizProcessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Order-Tracker/ECommerce.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Order-Tracker/InvalidOrderException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Order-Tracker/MainECommerce.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Order-Tracker/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Report_Generator/InvalidMarkException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Report_Generator/MainReport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Report_Generator/StudentReport.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="32yP8EZV2bl4sVQPzPOnKERRTm6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.MainLibraryManagement.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "OOPs"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9e4c0b3a-83d2-4aab-a299-cc57322b8e97" name="Changes" comment="" />
+      <created>1758389678214</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1758389678214</updated>
+    </task>
+    <servers />
+  </component>
+</project>
